@@ -1,0 +1,7 @@
+turtle
+streamlit
+os
+pandas
+datetime
+edinet
+numpy
